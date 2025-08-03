@@ -2,7 +2,7 @@
 **Disciplina:** Sistemas Operacionais (SO) – 2025.1  
 **Professor:** Leonardo A. Minora  
 **Aluno:** Gustavo Henrque da Cruz Maciel  
-**Repositório:** https://github.com/GustavoMaci/2025-1-Atividade-2.2-Memoria/new/main
+**Repositório:** https://github.com/GustavoMaci/2025-1-Atividade-2.2-Memoria/tree/main
 
 ---
 
