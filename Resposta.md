@@ -155,10 +155,3 @@ Ajuda sim, principalmente quando temos vários bloquinhos de espaço livre espal
 ## Conclusão
 
 Essa atividade foi boa pra visualizar como o sistema gerencia a memória, especialmente quando ela não é suficiente. Entender o Best-Fit, a paginação e a desfragmentação me ajudou a perceber melhor os desafios de otimizar o uso da RAM.
-### 1. Alocação Inicial com Best-Fit
-
-### 2. Simular Memória Virtual (Paginação)
-
-### 3. Desfragmentação da RAM
-
- ### 4. Questões para Reflexão
